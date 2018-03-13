@@ -1,0 +1,2 @@
+# ARMTemplates
+ECC ARM Templates
